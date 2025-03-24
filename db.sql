@@ -1,4 +1,4 @@
--- Active: 1736702615695@@127.0.0.1@3306@photo_gallery
+-- Active: 1736614744944@@127.0.0.1@3306@learnsql
 CREATE DATABASE photo_gallery;
 
 USE photo_gallery;
